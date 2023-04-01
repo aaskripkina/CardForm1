@@ -1,0 +1,1 @@
+# CI [![Build status](https://ci.appveyor.com/api/projects/status/00u44jl7ka1nclfk/branch/main?svg=true)](https://ci.appveyor.com/project/aaskripkina/cardform1/branch/main)
